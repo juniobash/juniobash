@@ -1,4 +1,4 @@
-#EM CONSTRUÇÃO
+# EM CONSTRUÇÃO
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,6 +11,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/juniobash/juniobash/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

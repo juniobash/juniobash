@@ -11,7 +11,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]
+[!Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)
 
 ### 🛠 &nbsp;Tech Stack
 

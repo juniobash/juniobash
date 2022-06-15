@@ -43,11 +43,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-  <div>
-<a href="https://github.com/juniobash">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)"/>
-</div>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)](https://github.com/juniobash/backpack)
 
 ## Jornada do Desenvolvedor Web

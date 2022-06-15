@@ -52,10 +52,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)](https://github.com/juniobash/backpack)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/webDeveloper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=dark)](https://github.com/juniobash/webDeveloper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
 
 
-~~~ HEX
-53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 
-~~~
+
+> 53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 
+

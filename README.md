@@ -46,9 +46,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=8&theme=dark)](https://github.com/juniobash/github-readme-stats)
 
-~~~ HEX
-53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 
-~~~
 
 ## Jornada do Desenvolvedor Web
 - html
@@ -70,3 +67,8 @@
 ### Frameworks Web
 - python e django
 - React Native e React JS
+
+
+~~~ HEX
+53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 
+~~~

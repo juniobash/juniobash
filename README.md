@@ -1,4 +1,4 @@
-# Samuel Junio
+# Software Engineer & Web Developer
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -38,9 +38,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/juniobash">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juniobash&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=8&theme=algolia"/>

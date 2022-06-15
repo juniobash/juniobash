@@ -1,8 +1,14 @@
 # Software Engineer & Web Developer
-
+<div>
+  <a>
+    💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+  </a>
+  <a>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
+  </a>
+</div>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 
 ### 🛠 &nbsp; Tenho Experiencia
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -26,8 +32,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Affinity Design](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Affinity Photo](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark)](https://github.com/juniobash/projectsUnderConstruction)

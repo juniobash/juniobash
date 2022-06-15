@@ -44,6 +44,8 @@
 </a>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/juniobash/juniobash)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)](https://github.com/juniobash/juniobash)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)

@@ -44,33 +44,16 @@
 </a>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)](https://github.com/juniobash/backpack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark)](https://github.com/juniobash/projectsUnderConstruction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark)](https://github.com/juniobash/projectsUnderConstruction)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)](https://github.com/juniobash/backpack)
 
-## Jornada do Desenvolvedor Web
-- html
-- markdown
-
-- css
-
-- javascript
-- php
-
-- git
-- - github
-
-- sql
-- - mysql; 
-- - nosql; 
-- - postgre
-
-### Frameworks Web
-- python e django
-- React Native e React JS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/webDeveloper)
 
 
 ~~~ HEX

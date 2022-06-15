@@ -1,14 +1,9 @@
 # Software Engineer & Web Developer
 <div>
-  <a>
+    ### 👨🏻‍💻 &nbsp;About Me
     💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-  </a>
-  <a>
     [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
-  </a>
 </div>
-### 👨🏻‍💻 &nbsp;About Me
-
 
 ### 🛠 &nbsp; Tenho Experiencia
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;

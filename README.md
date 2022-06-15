@@ -44,16 +44,13 @@
 </a>
 </div>
 
-<div>
-<a href="https://github.com/juniobash">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=dark)](https://github.com/juniobash/backpack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark)](https://github.com/juniobash/projectsUnderConstruction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)
+
+
+
 ## Jornada do Desenvolvedor Web
 - html
 - markdown

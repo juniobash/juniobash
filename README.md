@@ -10,6 +10,18 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+### Linguagens
+- C
+- HTML
+- CSS
+
+### Estudando Linguagens   
+
+- [X] PHP
+- [ ] JS
+
+### Programas e Sistemas
+1. Listagem ordenada 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 

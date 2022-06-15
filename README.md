@@ -10,7 +10,8 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/juniobash/juniobash/master/assets/Night-Coding.gif" align="right"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,16 +38,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<div>
-<a href="https://github.com/juniobash">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/juniobash/juniobash)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)](https://github.com/juniobash/juniobash)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true)]()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark)](https://github.com/juniobash/completeProjects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark)](https://github.com/juniobash/projectsUnderConstruction)

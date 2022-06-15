@@ -1,7 +1,8 @@
 # Software Engineer & Web Developer
 <div>
     ### 👨🏻‍💻 &nbsp;About Me
-    💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+    💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+    
     [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 </div>
 

@@ -48,3 +48,24 @@
   </a>
 </p>
 
+
+## Jornada do Desenvolvedor Web
+- html
+- markdown
+
+- css
+
+- javascript
+- php
+
+- git
+- - github
+
+- sql
+- - mysql; 
+- - nosql; 
+- - postgre
+
+### Frameworks Web
+- python e django
+- React Native e React JS

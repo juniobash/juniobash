@@ -37,14 +37,11 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-
-<p align="left">
-  <a href="https://github.com/juniobash">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juniobash&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=8&theme=dark)](https://github.com/juniobash/github-readme-stats)
+<div>
+<a href="https://github.com/juniobash">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Jornada do Desenvolvedor Web

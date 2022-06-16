@@ -5,8 +5,9 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 
-            |**Technologies that I have experience**|
-            | --- |:-:| --- |
+### &nbsp; Technologies that I have experience
+            |       |   |       |
+            | ---   |:-:| ---   |
             |1  |:innocent: |`:innocente:`  |
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;

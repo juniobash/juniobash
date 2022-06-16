@@ -1,13 +1,8 @@
 ![Software Engineer & Web Developer](assets/profile.png)
 
-  
-<a href="https://github.com/juniobash/Backpack">
-  <h3>👨🏻‍💻 About Me</h3>
-  <p>💡 I like to explore new technologies and develop software solutions and quick hacks.</p>
-</a>
-<a href="https://github.com/juniobash/juniobash">
-  <img align="center" src="" />
-</a>
+###  &nbsp; 👨🏻‍💻 About Me
+ - [💡] I like to explore new technologies and develop software solutions and quick hacks.
+
 
 ### &nbsp; Tech Stacks
 | **I have experience** |**I'm studying** |
@@ -19,17 +14,17 @@
 
 <div>
 <a href="https://github.com/juniobash">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Top's Repo
 
 <a href="https://github.com/juniobash/completeProjects">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/juniobash/projectsUnderConstruction">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
 </a>
 
 ###

@@ -2,9 +2,9 @@
 ![JunioBahs](assets/profile.png)
 # :man_technologist: Junio's Journey&nbsp;
 
-> Throughout this journey, I learned several languages, met wonderful places and unique people!
+> Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!
-- **:man_technologist:** I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
+> - **:man_technologist:** I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 
 #### I have experience &nbsp; 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;

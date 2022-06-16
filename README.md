@@ -5,14 +5,12 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&theme=dark)]()
 
-<div>
     <a href="https://github.com/juniobash/completeProjects">
         <img align="center" src"https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
     </a>
     <a href="https://github.com/juniobash/projectsUnderConstruction">
         <img align="center" src"https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark"/>
     </a>
-</div>
 
 ### &nbsp; Tech Stacks
 | **I have experience** |

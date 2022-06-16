@@ -12,15 +12,15 @@
 
 <div>
 <a href="https://github.com/juniobash">
-<img height="128em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
-<img height="128em" align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <a href="https://github.com/juniobash/completeProjects">
-  <img height="128em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/juniobash/projectsUnderConstruction">
-  <img height="128em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
 </a>
 
 ###

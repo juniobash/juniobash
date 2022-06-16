@@ -5,7 +5,7 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 
-### &nbsp;  |**Technologies that I have experience**|
+            |**Technologies that I have experience**|
             | --- |:-:| --- |
             |1  |:innocent: |`:innocente:`  |
 

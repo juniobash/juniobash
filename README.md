@@ -6,7 +6,7 @@
   <p>💡 I like to explore new technologies and develop software solutions and quick hacks.</p>
 </a>
 <a href="https://github.com/juniobash/juniobash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark" />
+  <img align="center" src="" />
 </a>
 
 ### &nbsp; Tech Stacks
@@ -17,13 +17,19 @@
 | **App's** | **Operational System** |
 |![iAWriter](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Affinity Design](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) ![Affinity Photo](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)| - |
 
+<div>
+<a href="https://github.com/juniobash">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Top's Repo
 
 <a href="https://github.com/juniobash/completeProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/juniobash/projectsUnderConstruction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projectsUnderConstruction&hide_border=true&theme=dark" />
 </a>
 
 ###

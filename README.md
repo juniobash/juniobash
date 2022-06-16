@@ -6,6 +6,16 @@
 </a>
 </div>
 
+<div>
+<a href="https://github.com/juniobash">
+    <img height="220em" align="center" src="assets/profile.png">
+</a>
+<a href="https://github.com/juniobash">
+    <h3> :man_technologist: About Me</h3>
+    <p>I like to explore new technologies and develop software solutions and quick hacks.</p>
+</a>
+</div>
+
 ### &nbsp; :man_technologist: About Me
 I like to explore new technologies and develop software solutions and quick hacks.
  

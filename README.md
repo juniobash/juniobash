@@ -22,8 +22,8 @@
 </a>
 </div-->
 
-<a href="https://github.com/juniobash/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark" />
+<a href="https://github.com/juniobash/webDeveloper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/juniobash/backpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack&hide_border=true&theme=dark" />

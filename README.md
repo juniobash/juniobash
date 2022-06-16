@@ -1,8 +1,4 @@
-![Software Engineer & Web Developer](assets/profile.png)
-
-###  &nbsp; :man_technologist: About Me
- - :bison: I like to explore new technologies and develop software solutions and quick hacks.
- 
+<img height="180em" align="center" src="assets/profile.png">
 <div>
 <a href="https://github.com/juniobash">
 <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +6,9 @@
 </a>
 </div>
 
+###  &nbsp; :man_technologist: About Me
+ - :bison: I like to explore new technologies and develop software solutions and quick hacks.
+ 
 | **I have experience** |
 | :--- |
 |![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;|

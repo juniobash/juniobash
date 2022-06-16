@@ -3,8 +3,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&theme=dark)]()
-
+<a href="https://github.com/juniobash/Backpack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack" />
+</a>
+<a href="https://github.com/juniobash/juniobash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=false&layout=compact&theme=dark)" />
+</a>
 
 ### &nbsp; Tech Stacks
 | **I have experience** |
@@ -27,10 +31,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=softwareEngineer&hide_border=true&theme=dark)](https://github.com/juniobash/softwareEngineer)
 
 @juniobash | `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`
-
-<a href="https://github.com/juniobash/Backpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack" />
-</a>
-<a href="https://github.com/juniobash/juniobash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&theme=dark)" />
-</a>

@@ -12,15 +12,16 @@
 #### Operational System &nbsp;
 ![Affinity Photo](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<!--div>
+<div>
 <a href="https://github.com/juniobash">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&color=101216"/>
 </a>
-</div-->
+</divs>
 
 <a href="https://github.com/juniobash/backpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack&hide_border=true&bg_color=#101216" />
 </a>
+
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61` @juniobash

@@ -5,7 +5,11 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 
-### &nbsp; Tenho Experiencia
+#### &nbsp; Technologies that I have experience
+|ICO|ICO        |SHORTCODE      |
+| - |:-:        |-              |
+|1  |:innocent: |`:innocente:`  |
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -14,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-### &nbsp; Estudando   
+#### &nbsp; Technologies I'm studying
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

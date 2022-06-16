@@ -1,6 +1,6 @@
 
 ![JunioBahs](assets/profile.png)
-### &nbsp; :man_technologist: About Me
+### &nbsp;:man_technologist:About Me
 **:man_technologist:** I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 
 #### I have experience &nbsp; 
@@ -15,12 +15,19 @@
 #### Operational System &nbsp;
 ![Affinity Photo](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<div>
+<!--div>
 <a href="https://github.com/juniobash">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark"/>
 </a>
-</div>
+</div-->
+
+<a href="https://github.com/juniobash/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/juniobash/backpack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=Backpack&hide_border=true&theme=dark" />
+</a>
 
 <a href="https://github.com/juniobash/completeProjects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=completeProjects&hide_border=true&theme=dark" />

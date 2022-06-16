@@ -5,10 +5,9 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&layout=compact&langs_count=7&hide_border=true&theme=dark)]()
 
-#### &nbsp; Technologies that I have experience
-|ICO|ICO        |SHORTCODE      |
-| - |:-:        |-              |
-|1  |:innocent: |`:innocente:`  |
+### &nbsp;  |**Technologies that I have experience**|
+            | --- |:-:| --- |
+            |1  |:innocent: |`:innocente:`  |
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;

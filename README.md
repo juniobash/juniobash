@@ -15,8 +15,8 @@
 > 
 <details>
   <summary>:rocket: Stastics Github </summary>
-> ![](https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=github_dark)&nbsp;
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
 </details>
 
 <details> 

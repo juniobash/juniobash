@@ -13,17 +13,21 @@
 > | App's I used              | ![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)|
 > | Operational System I used | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  |
 > 
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)&nbsp;
-
 <details>
-  <summary>👇 My Stastics </summary>
+  <summary>:rocket: Stastics Github </summary>
  <a href="https://github.com/juniobash">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=github_dark" />
 </a>
+<a href="https://github.com/juniobash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark" />
+</a>
+  
+  > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)&nbsp;
+
 </details>
 
 <details> 
-<summary>:rocket: Top's Secret Projects :man_astronaut:	</summary>
+<summary> :man_astronaut: Top's Secret Projects</summary>
 <a href="https://github.com/juniobash/backpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&theme=github_dark" />
 </a>

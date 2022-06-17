@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark" />
 </a>
   
-  > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)&nbsp;
-
+ > ![](https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=github_dark)&nbsp;
+ > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)&nbsp;
 </details>
 
 <details> 

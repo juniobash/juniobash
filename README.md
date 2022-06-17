@@ -15,14 +15,14 @@
 > 
 <details>
   <summary>:rocket: Stastics Github </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=github_dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
 </details>
 
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=github_dark"/>
 </details>
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`

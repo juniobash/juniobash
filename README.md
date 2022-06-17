@@ -14,11 +14,19 @@
 > | Operational System I used | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  |
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)](https://github.com/juniobash)&nbsp;
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniobash)](https://github.com/juniobash)&nbsp;
+
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`
 
 <details> 
 <summary>👇 My top's repos</summary>
- <hr>
  <strong>Backpack</strong> Contem minhas habilidades e linguagens base. Thanks, i`m @juniobasg
 </details>
+
+<a href="https://github.com/juniobash/backpack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack" />
+</a>
+<a href="https://github.com/juniobash/webDeveloper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper" />
+</a>

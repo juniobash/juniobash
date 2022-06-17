@@ -3,7 +3,6 @@
 # :man_technologist: Junio's Journey&nbsp; 
 > Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!
-
 > - **:man_technologist:** I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
 > 
@@ -18,8 +17,8 @@
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`
 
-<!--details> 
+<details> 
 <summary>👇 My top's repos</summary>
  <hr>
  > <strong>Backpack</strong> Contem minhas habilidades e linguagens base. Thanks, i`m @juniobasg
-</details-->
+</details>

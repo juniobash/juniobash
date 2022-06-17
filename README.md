@@ -1,6 +1,6 @@
 
 ![JunioBahs](assets/profile.png)
-# :man_technologist: Junio's Journey&nbsp;  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
+# :man_technologist: Junio's Journey&nbsp; [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 
 > Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!
@@ -19,9 +19,9 @@
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`
 
-<details> 
+<!--details> 
 <summary>👇 Use Ctrl + F or CMD + F to search</summary>
  <hr>
 
  > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
-</details>
+</details-->

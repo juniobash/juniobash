@@ -17,3 +17,10 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark)](https://github.com/juniobash)&nbsp;
 
 > `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61`
+
+<details> 
+<summary>👇 Use Ctrl + F or CMD + F to search</summary>
+ <hr>
+
+ > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
+</details>

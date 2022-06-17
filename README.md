@@ -20,5 +20,5 @@
 <details> 
 <summary>👇 My top's repos</summary>
  <hr>
- > <strong>Backpack</strong> Contem minhas habilidades e linguagens base. Thanks, i`m @juniobasg
+ <strong>Backpack</strong> Contem minhas habilidades e linguagens base. Thanks, i`m @juniobasg
 </details>

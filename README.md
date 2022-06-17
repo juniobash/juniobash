@@ -16,16 +16,20 @@
 <details>
   <summary>:rocket: Stastics Github </summary>
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=github_dark"/>
+  </a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
   </a>
 </details>
 
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=github_dark"/>
+  <a href="https://github.com/juniobash/backpack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/juniobash/webdeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=github_dark"/>
   </a>
 </details>
 

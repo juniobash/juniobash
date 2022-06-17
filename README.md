@@ -23,8 +23,7 @@
 </details>
 
 <details> 
-<summary>:launcher: Top's Projects</summary>
-<strong>I'm Juniobash</strong>
+<summary>:rocket: Top's Secret Projects :man_astronaut:	</summary>
 <a href="https://github.com/juniobash/backpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&theme=github_dark" />
 </a>

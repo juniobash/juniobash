@@ -25,11 +25,10 @@
 
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
-  <a href="https://github.com/juniobash/backpack">
+  <a href="https://github.com/juniobash/backpack"> My stuff's
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
   </a>
-  <a href="https://juniobash.github.io/projects/">
-    <h2>Time Line of Projects</h2>
+  <a href="https://juniobash.github.io/projects/"> List of projects
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projects&hide_border=true&theme=github_dark"/>
   </a>
 </details>

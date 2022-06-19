@@ -29,6 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
   </a>
   <a href="https://juniobash.github.io/projects/">
+    <h2>Time Line of Projects</h2>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projects&hide_border=true&theme=github_dark"/>
   </a>
 </details>

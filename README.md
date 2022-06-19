@@ -1,5 +1,5 @@
 
-![JunioBahs](assets/profile.png)
+[![JunioBahs](assets/profile.png)](https://github.com/juniobash)
 # :man_technologist: Junio's Journey&nbsp; 
 > Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!
@@ -28,8 +28,8 @@
   <a href="https://github.com/juniobash/backpack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
   </a>
-  <a href="https://github.com/juniobash/webdeveloper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=webDeveloper&hide_border=true&theme=github_dark"/>
+  <a href="https://juniobash.github.io/projects/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=projects&hide_border=true&theme=github_dark"/>
   </a>
 </details>
 

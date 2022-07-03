@@ -1,5 +1,5 @@
 
-[![JunioBahs](assets/profile.png)](https://github.com/juniobash)
+[![JunioBahs](assets/profile-transparent.png)](https://github.com/juniobash)
 # :man_technologist: Junio's Journey&nbsp; 
 > Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!

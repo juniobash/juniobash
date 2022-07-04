@@ -1,14 +1,14 @@
 
-[![JunioBahs](assets/profile-transparent.png)](https://github.com/juniobash)
+[![JunioBahs](backpack/photo/profile-transparent.png)](https://github.com/juniobash)
 # :man_technologist: Junio's Journey&nbsp; 
 > Throughout this journey, I learned several languages, met wonderful places and unique people!&nbsp; 
 > Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 ~~~
->   ++++ Software Engineer
->    +++ Web Developer
->     ++ Apple Developer
->      + Open Source Developer
+ ++++ Software Engineer
+  +++ Web Developer
+   ++ Apple Developer
+    + Open Source Developer
 ~~~
 > | **My Networking**             |[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)|
 > | :---                      | :--- |
@@ -30,7 +30,7 @@
 
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
-  <a href="https://github.com/juniobash/backpack">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
   </a>
 </details>

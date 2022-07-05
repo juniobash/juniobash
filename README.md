@@ -4,13 +4,13 @@
 <h1>
 <details>
   <summary>:man_technologist: Hi! I'm Samuel Junio</summary>
-  <a href="backpack/">:school_satchel: Backpack</a>
   <a href="#">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
   </a>
   <a href="#">
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact"/>
   </a>
+  <a href="backpack/">:school_satchel: Backpack</a>
 </details>
 </h1>
 <!--https://medium.com/@juniobash-->

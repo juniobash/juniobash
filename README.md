@@ -1,17 +1,18 @@
 
 [![JunioBahs](backpack/photo/profile-transparent.png)](https://github.com/juniobash)
+
 <h1>
 <details>
   <summary>:man_technologist: Hi! I'm Samuel Junio</summary>
-  <p>:rocket: Stastics Github</p>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact"/>
   </a>
 </details>
 </h1>
+<!--https://medium.com/@juniobash-->
 <!--# :man_technologist: Hi! I'm Samuel Junio &nbsp;--> 
 > Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
@@ -21,7 +22,7 @@
 > - [ ] Apple Developer
 > - [ ] Open Source Developer
 
-**Profissional Profile** &nbsp; 
+**:rocket: Profissional Profile** &nbsp; 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 

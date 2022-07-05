@@ -16,6 +16,7 @@
 <!--# :man_technologist: Hi! I'm Samuel Junio &nbsp;-->
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
+[![medium]((https://img.shields.io/badge/medium-0077B5?style=for-the-badge&logo=meidum&logoColor=white)](https://medium.com/@juniobash)
 
 > Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;

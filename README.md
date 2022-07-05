@@ -1,6 +1,8 @@
 
 [![JunioBahs](backpack/photo/profile-transparent.png)](https://github.com/juniobash)
 # :man_technologist: Hi! I'm Samuel Junio &nbsp; 
+
+
 > Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
@@ -9,9 +11,10 @@
 > - [ ] Apple Developer
 > - [ ] Open Source Developer
 
-<h3>
+<h1>
 <details>
-  <summary>:rocket: Stastics Github </summary>
+  <summary>:man_technologist: Hi! I'm Samuel Junio</summary>
+  <p>:rocket: Stastics Github</p>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true&theme=github_dark"/>
   </a>
@@ -19,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
   </a>
 </details>
-</h3>
+</h1>
 
 **Profissional Profile** &nbsp; 
 

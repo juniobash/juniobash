@@ -1,6 +1,16 @@
-# Guia de Sobrevivencia do Programador, Pseudo Codigo
-BOOTCAMP VISUALG 3.0
-Versão Portuguesa de Pseudo Codigo
+# Survival with Pseudo Code
+> BootCamp Visualg 2.5
+> Portuguese version of the Pseudo Code
+
+1. Basico
+    manual, projetos e desafios
+2. Intermediario
+    manual, projetos e desafios
+3. Avancado
+    manual, projetos e desafios
+4. Mestre
+    manual, projetos e desafios
+
 
 ## Bloco de Codigo Funcional (spring)
 > A atual apostila utilizara a metodologia diagrama de fluxo e micro codigos para explicacao do comando ou bloco de codigo

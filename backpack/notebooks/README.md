@@ -1,5 +1,6 @@
 # :card_index: Basic Programmer Survival Guide
-> - [ ] Flowgorithm
-> - [ ] Visualg
-> - [ ] Portugol Studio
-> - [ ] Pascal
+
+## [Flowgorithm](flowgorithm.md/)
+## [Visualg](visualg.md/)
+## [Portugol Studio](portugolStudio.md/)
+## [Pascal](pascal.md/)

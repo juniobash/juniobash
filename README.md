@@ -41,7 +41,7 @@
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
   <br>
-  <a href="https://juniobash.github.io/">
+  <a href="https://juniobash.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
   </a>
 </details>

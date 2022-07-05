@@ -7,7 +7,7 @@
 >
 > - [X] Software Engineer
 > - [X] Web Developer
-> - [ ]Apple Developer
+> - [ ] Apple Developer
 > - [ ] Open Source Developer
 
 <h3>

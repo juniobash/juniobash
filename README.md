@@ -23,7 +23,7 @@
 > - [ ] Apple Developer
 > - [ ] Open Source Developer
 
-|**:rocket: Profissional Profile** &nbsp; |
+|**Profissional Profile** &nbsp; |
 |:---|
 |[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)|
 |**Experience** &nbsp; |
@@ -35,13 +35,13 @@
 |**OS** &nbsp; |
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
  
-<h3>
+<h1>
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
   </a>
 </details>
-</h3>
+</h1>
 
 `[ 53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 ]` &nbsp;

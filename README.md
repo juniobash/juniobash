@@ -19,13 +19,13 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
 
-> **:rocket: Throughout this journey**, I learned several languages, met wonderful places and unique people! Here I share my learning!
+>Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
-> - [X] :surfing_man:	Software Engineer
-> - [X] :surfing_man:	Web Developer
-> - [ ] :climbing: Apple Developer
-> - [ ] :climbing: Open Source Developer
+> * :surfing_man:	Software Engineer
+> * :surfing_man:	Web Developer
+> * :climbing: Apple Developer
+> * :climbing: Open Source Developer
 
 > |**:sun_with_face: Experience** &nbsp; |
 > |:---|
@@ -47,4 +47,4 @@
 </details>
 </h1>
 
-`[ 53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 ]` &nbsp;
+`:hammer_and_wrench: [ 53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 ]` &nbsp;

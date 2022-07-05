@@ -15,15 +15,15 @@ languages tools and technologies of computer science I have used!
 
 ## :memo: Notes and Projects
 
-### [Basic Survival Guide](notebooks/README.md)
+### [:books: Basic Survival Guide](notebooks/README.md)
 > - [ ] Flowgorithm
 > - [ ] Visualg
 > - [ ] Portugol Studio
 > - [ ] Pascal
 
-> ### [Software Engineer Path](softwareEngineer.md)
+> ### [:compass: Software Engineer Path](softwareEngineer.md)
 > development with software engineering tools and techniques
 
-> ### [Web Developer Path](webDeveloper.md)
+> ### [:compass: Web Developer Path](webDeveloper.md)
 > languages, tools and technologies for web development
 uml, github, agile development

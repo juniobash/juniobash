@@ -9,7 +9,8 @@
  * Web Developer
  * Apple Developer
  * Open Source Developer
-
+ 
+<h3>
 <details>
   <summary>:rocket: Stastics Github </summary>
   <a href="#">
@@ -19,6 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact&theme=github_dark"/>
   </a>
 </details>
+</h3>
 
 > | **Professional Profile**             |[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)|
 > | :---                      | :--- |

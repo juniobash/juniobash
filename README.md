@@ -40,7 +40,7 @@
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=backpack&hide_border=true&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true&theme=github_dark"/>
   </a>
 </details>
 </h1>

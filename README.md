@@ -20,7 +20,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
 [![Discord](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)
 
-[![Discord](https://img.shields.io/badge/%3Cjuniobash#3987%3E-%.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/%3Cjuniobash#3987%3E-%588066254913273856.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;

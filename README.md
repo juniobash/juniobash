@@ -18,7 +18,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
-
 [![Discord](https://img.shields.io/badge/juniobash#3987-12100E?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!

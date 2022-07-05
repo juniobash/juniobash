@@ -4,6 +4,7 @@
 <h1>
 <details>
   <summary>:man_technologist: Hi! I'm Samuel Junio</summary>
+  <br>
   <a href="#">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
   </a>
@@ -39,6 +40,7 @@
 <h1>
 <details> 
 <summary> :man_astronaut: Top's Secret Projects</summary>
+  <br>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
   </a>

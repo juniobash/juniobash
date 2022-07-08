@@ -9,7 +9,7 @@ languages tools and technologies of computer science I have used!
 |Flowgorithm    |C          |Bash   |HTML   |PHP            |MySQL      | UML|
 |Visualg        |C++        |Python |CSS    |JavaScript     |PostgreSQL |SCRUM|
 |Portugol Studio|Object C   |Ruby   |DOM    |TypeScript     |MongoDB    |XP|
-|Pascal         |Swift      |Go     |JSON   |Node           |           |Git|
+|Pascal         |Swift      |Go     |JSON   |Node           |NoSql      |Git|
 |               |Java       |       |XML    |React JS       |           |Kaban|
 |               |           |       |       |React Native   |           |Canvas|
 

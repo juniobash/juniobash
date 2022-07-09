@@ -12,7 +12,7 @@
   </a>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniobash&" alt="juniobash" /></a>
   <br>
-  <a href="backpack/">:school_satchel: Backpack</a>
+  <a href="backpack/">:school_satchel: My journey as a programmer and software engineer</a>
 </details>
 </h1>
 <!--https://medium.com/@juniobash-->

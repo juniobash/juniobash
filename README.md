@@ -11,6 +11,7 @@
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniobash&langs_count=7&hide_border=true&layout=compact"/>
   </a>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniobash&" alt="juniobash" /></a>
+  <br>
   <a href="backpack/">:school_satchel: Backpack</a>
 </details>
 </h1>

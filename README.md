@@ -16,19 +16,17 @@
 </details>
 </h1>
 <!--https://medium.com/@juniobash-->
-<!--# :man_technologist: Hi! I'm Samuel Junio &nbsp;-->
 
+<!--# :man_technologist: Hi! I'm Samuel Junio &nbsp;-->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
 [![juniobash#3987](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)
-
 
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
 > * :surfing_man:	Software Engineer
 > * :surfing_man:	Web Developer
-> * :climbing: Apple Developer
 > * :climbing: Open Source Developer
 
 > |**:sun_with_face: Experience** &nbsp; |
@@ -41,9 +39,7 @@
 > |**:computer:	OS I Used** &nbsp; |
 > |[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](#) [![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)|
  
-<h1>
-<details> 
-<summary> :man_astronaut: Top's Secret Projects</summary>
+<h1> :man_astronaut: Top's Secret Projects</h1>
   <br>
   <a href="https://juniobash.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
@@ -52,7 +48,5 @@
     <a href="https://codenymphs.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenymphs&repo=codenymphs.github.io&hide_border=true"/>
   </a>
-</details>
-</h1>
 
 :hammer_and_wrench: `[ 53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61 ]` &nbsp;

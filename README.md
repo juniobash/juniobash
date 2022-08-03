@@ -42,5 +42,21 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenymphs&repo=codenymphs.github.io&hide_border=true"/>
   </a>
   <br>
-  
+ 
+# [codeNymphs](https://github.com/codenymphs/)
+> Programming Can Be Soft and Graceful.  
+- [ ] Build programs to help people.   
+- [ ] Create programs capable of caring for animals and plants.   
+- [ ] Make the code able to take care of our environment.   
+
+`juniobash@github ~ % cat nymphs.alg`   
+~~~ algorithm
+Algorithm "creating code nymphs"
+    
+     Begin
+         Write("Hello, World!")
+
+EndAlgorithm
+~~~
+ 
   `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61` &nbsp;

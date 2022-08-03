@@ -38,10 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
   </a>
   <br>
-    <a href="https://codenymphs.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenymphs&repo=codenymphs.github.io&hide_border=true"/>
-  </a>
-  <br>
  
 # [codeNymphs](https://github.com/codenymphs/)
 > Programming Can Be Soft and Graceful.  

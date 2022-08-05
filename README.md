@@ -48,7 +48,9 @@
 `juniobash@github ~ % cat nymphs.alg`   
 ~~~ algorithm
 BeginAlgorithm "creating code nymphs"
-    Write("Hello, World!")
+  
+    Write("Hello, World!") 
+
 EndAlgorithm
 ~~~
  

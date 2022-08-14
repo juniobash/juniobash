@@ -10,9 +10,9 @@
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
 
-# - [X] :surfing_man:	Software Engineer
-# - [X] :surfing_man:	Web Developer
-# - [ ] :climbing: Open Source Developer
+### :surfing_man:	Software Engineer
+### :surfing_man:	Web Developer
+### :climbing: Open Source Developer
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

@@ -39,8 +39,8 @@
   </a>
   <br>
   
-### Organization Founder [@codenymphs](https://github.com/codenymphs)
-# :elf_woman: `"you can programming softly and beautiful"`
+# :elf_woman: Organization Founder: [@codenymphs](https://github.com/codenymphs)
+### `"you can programming softly and beautiful"`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   

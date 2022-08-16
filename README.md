@@ -49,7 +49,7 @@ Organization Founder
 ### Pascal Nymph
 `~$ cat nymphisborn.pas`   
 ~~~ pascal
-PROGRAM NYMPH(isBorn);
+PROGRAM Nymph(isBorn);
 BEGIN
     	Writeln('The nymph said: hello world!');
 END.	

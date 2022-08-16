@@ -46,15 +46,16 @@ Organization Founder
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-`~$ cat nymphs.pas`   
+### Pascal Nymph
+`~$ cat NymphIsBorn.pas`   
 ~~~ pascal
-PROGRAM Nymph_Is_Born;
+PROGRAM NymphIsBorn;
 BEGIN
-    	WRITE('The nymph said: hello world!');
+    	WRITELN('The nymph said: hello world!');
 END.	
 ~~~
-`~$ fpc nymph.pas`  
-`~$ ./nymph`   
+`~$ fpc NymphIsBorn.pas`  
+`~$ ./NymphIsBorn`   
 `~$ The nymph said: hello world!`   
  
   `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61` &nbsp;

@@ -47,15 +47,15 @@ Organization Founder
 - [ ] Make the code able to take care of our environment.   
 
 ### Pascal Nymph
-`~$ cat nymphs.pas`   
+`~$ cat nymph.pas`   
 ~~~ pascal
 PROGRAM isBorn(aNymph);
 BEGIN
     	Writeln('The nymph said: hello world!');
 END.	
 ~~~
-`~$ fpc nymphs.pas`  
-`~$ ./nymphs`   
+`~$ fpc nymph.pas`  
+`~$ ./nymph`   
 `~$ The nymph said: hello world!`     
  ___
 

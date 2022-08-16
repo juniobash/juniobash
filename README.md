@@ -39,7 +39,8 @@
   </a>
   <br>
   
-# :elf_woman: Organization Founder: [@codenymphs](https://github.com/codenymphs)
+# :elf_woman: Organization Founder
+[@codenymphs](https://github.com/codenymphs)
 ### `"you can programming softly and beautiful"`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
@@ -48,7 +49,7 @@
 ### Pascal Nymph
 `~$ cat nymphs.pas`   
 ~~~ pascal
-PROGRAM nymph_is_born;
+PROGRAM Nymph_Is_Born;
 BEGIN
     	WRITE('The nymph said: hello world!');
 END.	

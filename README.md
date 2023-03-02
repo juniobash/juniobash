@@ -1,11 +1,11 @@
-
+<center>
 [![JunioBahs](backpack/photo/profile-transparent.png)](https://github.com/juniobash)
 
 # :man_technologist: Hi! I'm Samuel Junio &nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
 [![juniobash#3987](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)
-
+</center>
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >

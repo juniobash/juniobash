@@ -10,10 +10,13 @@
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 >
-
+<right>
+  
 ### * :surfing_man: Software Engineer
 ### * :surfing_man:	Web Developer
 ### * :climbing: Open Source Developer
+
+</right>
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

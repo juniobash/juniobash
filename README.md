@@ -1,6 +1,5 @@
 # Hi!, I'm Samuel and a Software Engineer.   
 
-$cat app.py
 ~~~python
 message = """
   Throughout this journey, I learned several languages, 
@@ -14,7 +13,7 @@ message = """
   
 print(message)
 ~~~
-$python `app.py`   
+github:~$ python `app.py`   
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

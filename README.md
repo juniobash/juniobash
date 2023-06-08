@@ -10,8 +10,7 @@ print("""
   and develop software solutions and quick hacks. 
   
   Here I share my learning!
-  """
-)
+""")
 ~~~
 
 |**:sun_with_face: Experience** &nbsp; |

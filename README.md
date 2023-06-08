@@ -16,7 +16,7 @@
   I like to explore new technologies 
   and develop software solutions 
   and quick hacks. 
-~~~&nbsp;
+~~~
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

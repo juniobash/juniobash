@@ -13,9 +13,7 @@
 > Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!  
   
 ~~~
-  I like to explore new technologies 
-  and develop software solutions 
-  and quick hacks. 
+  I like to explore new technologies and develop software solutions and quick hacks. 
 ~~~
 
 |**:sun_with_face: Experience** &nbsp; |

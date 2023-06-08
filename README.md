@@ -30,8 +30,8 @@
 |[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](#) [![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)|
  
 <h1> :man_astronaut: Top's Secret Projects</h1>
-  <br>
-   <a href="#">
+<div align="center">    
+  <a href="#">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
   </a>
   <a href="#">
@@ -42,26 +42,5 @@
   <a href="https://juniobash.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
   </a>
-  <br>
-  
-# :elf_woman: [@codenymphs](https://github.com/codenymphs)
-Organization Founder
-### `"you can programming softly and beautiful"`
-- [ ] Build programs to help people.   
-- [ ] Create programs capable of caring for animals and plants.   
-- [ ] Make the code able to take care of our environment.   
-
-### Pascal Nymph
-`~$ cat nymph.pas`   
-~~~ pascal
-PROGRAM isBorn(aNymph);
-BEGIN
-    	Writeln('The nymph said: hello world!');
-END.	
-~~~
-`~$ fpc nymph.pas`  
-`~$ ./nymph`   
-`~$ The nymph said: hello world!`     
- ___
-
+</div>
   `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61` &nbsp;

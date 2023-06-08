@@ -6,16 +6,14 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
 [![juniobash#3987](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)
   
-</div>   
+</div> 
 
+<div align="left">
+### :surfing_man: Software Engineer  
 >Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 
-### :surfing_man: Software Engineer
-### :surfing_man:	Web Developer
-### :climbing: Open Source Developer
-
-<h1> :man_astronaut: Top's Secret Projects</h1>
+<h1> :man_astronaut: Top's Projects</h1>
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|
@@ -26,7 +24,9 @@
 |[![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#) [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#) [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](#) [![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)](#) [![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)](#) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#) |
 |**:computer:	OS I Used** &nbsp; |
 |[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](#) [![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)|
- 
+
+</div>
+
 <div align="center">    
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>

@@ -1,6 +1,4 @@
 # Hi!, I'm Samuel and a Software Engineer.   
-
-`app.py`   
 ~~~python
 print("""
     Throughout this journey, I learned several languages, 

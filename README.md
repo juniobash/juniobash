@@ -1,9 +1,13 @@
 # Hi!, I'm Samuel and a Software Engineer.   
-run `app.py`   
+`>python app.py`   
 ~~~python
 message = """ 
-  Throughout this journey, I learned several languages, met wonderful places and unique people! 
-  I like to explore new technologies and develop software solutions and quick hacks. 
+  Throughout this journey, 
+  I learned several languages, 
+  met wonderful places and unique people! 
+  I like to explore new technologies 
+  and develop software solutions 
+  and quick hacks. 
   Here I share my learning!
 """
 print(message)

@@ -1,4 +1,5 @@
 # Hi!, I'm Samuel and a Software Engineer.   
+run `app.py`   
 ~~~python
 message = """ 
   Throughout this journey, I learned several languages, met wonderful places and unique people! 
@@ -7,7 +8,6 @@ message = """
 """
 print(message)
 ~~~
-`app.py`   
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

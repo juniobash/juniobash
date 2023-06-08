@@ -13,7 +13,7 @@ message = """
   
 print(message)
 ~~~
-github:~$ python `app.py`   
+`github:~$ python app.py`   
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

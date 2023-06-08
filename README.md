@@ -1,6 +1,6 @@
-
+`github:~$ cat app.py`   
 ~~~python
-message = """
+message_to_say = """
   Throughout this journey, I learned several languages, 
   met wonderful places and unique people!
   
@@ -12,7 +12,6 @@ message = """
   
 print(message)
 ~~~
-`github:~$ python app.py`   
 
 # Hi!, I'm Samuel and a Software Engineer.   
 |**:sun_with_face: Experience** &nbsp; |

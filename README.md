@@ -1,15 +1,15 @@
 # Hi!, I'm Samuel and a Software Engineer.   
 
-`github:~$ cat app.py`   
+`app.py`   
 ~~~python
 print("""
-  Throughout this journey, I learned several languages, 
-  met wonderful places and unique people!
+    Throughout this journey, I learned several languages, 
+    met wonderful places and unique people!
   
-  I like to explore new technologies 
-  and develop software solutions and quick hacks. 
+    I like to explore new technologies 
+    and develop software solutions and quick hacks. 
   
-  Here I share my learning!""")
+    Here I share my learning!""")
 ~~~
 
 |**:sun_with_face: Experience** &nbsp; |

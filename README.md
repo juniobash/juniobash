@@ -2,7 +2,8 @@
 
 `github:~$ cat app.py`   
 ~~~python
-print("""
+print(
+"""
   Throughout this journey, I learned several languages, 
   met wonderful places and unique people!
   
@@ -10,7 +11,8 @@ print("""
   and develop software solutions and quick hacks. 
   
   Here I share my learning!
-""")
+"""
+)
 ~~~
 
 |**:sun_with_face: Experience** &nbsp; |

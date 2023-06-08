@@ -1,4 +1,3 @@
-# Hi!, I'm Samuel and a Software Engineer.   
 
 ~~~python
 message = """
@@ -15,6 +14,7 @@ print(message)
 ~~~
 `github:~$ python app.py`   
 
+# Hi!, I'm Samuel and a Software Engineer.   
 |**:sun_with_face: Experience** &nbsp; |
 |:---|
 | [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#) [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)|

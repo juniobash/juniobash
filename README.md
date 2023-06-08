@@ -10,7 +10,7 @@
 
 <div align="left">
 ### :surfing_man: Software Engineer  
->Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
+> Throughout this journey, I learned several languages, met wonderful places and unique people! Here I share my learning!
 > I like to explore new technologies and develop software solutions and quick hacks.&nbsp;
 
 <h1> :man_astronaut: Top's Projects</h1>
@@ -25,9 +25,8 @@
 |**:computer:	OS I Used** &nbsp; |
 |[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](#) [![win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)|
 
-</div>
+</div>   
 
-<div align="center">    
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=juniobash&show_icons=true&hide_border=true"/>
   </a>
@@ -39,7 +38,6 @@
   </a>
   <a href="https://juniobash.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniobash&repo=juniobash.github.io&hide_border=true"/>
-  </a>
-</div>  
-
+  </a>   
+  
 `53 75 62 20 75 6d 62 72 61 20 61 6c 61 72 75 6d 20 74 75 61 72 75 6d 2c 20 4a 65 68 6f 76 61` &nbsp;

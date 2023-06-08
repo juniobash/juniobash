@@ -1,9 +1,6 @@
 [![JunioBahs](backpack/photo/profile-transparent.png)](https://github.com/juniobash)
-# :man_technologist: Hi, I'm Samuel and a software engineer. &nbsp;
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
-[![juniobash#3987](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)   
-  
+# :man_technologist: Hi, I'm Samuel and a software engineer.   
+
 ~~~python
 speak_message = """ 
   Throughout this journey, 
@@ -16,7 +13,12 @@ speak_message = """
   
   Here I share my learning!
 """
+
+print(speak_message)
 ~~~
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniobash/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juniobash)
+[![juniobash#3987](https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=Discord&logoColor=white)](#)    
 
 |**:sun_with_face: Experience** &nbsp; |
 |:---|

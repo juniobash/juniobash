@@ -7,9 +7,7 @@ print("""
     met wonderful places and unique people!
   
     I like to explore new technologies 
-    and develop software solutions and quick hacks. 
-  
-    Here I share my learning!""")
+    and develop software solutions and quick hacks.""")
 ~~~
 
 ## **:sun_with_face: Experience** &nbsp;

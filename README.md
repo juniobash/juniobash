@@ -5,7 +5,8 @@
 print("""
 Throughout this journey, 
 I learned several languages,
-met wonderful places and unique people!
+met wonderful places 
+and unique people!
 
 I like to explore new technologies 
 and develop software solutions 
